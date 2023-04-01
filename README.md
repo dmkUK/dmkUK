@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a photography enthusiast trying to get a couple of linux based machines to work. I have near zero coding knowledge, so please be gentle. 
+
 <!--
 **dmkUK/dmkUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
